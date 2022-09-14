@@ -16,7 +16,7 @@ To understand the outcomes by launch dates, a pivot table was created to compare
 ### Analysis of Outcomes Based on Goals
 Louise wanted to know more about the campaigns based on their funded goals.  To compare the number of successful, failed and  canceled campaigns, the CountIF function was used.  The Sum function was used in column E to obtain the total number of projects.  Finally, the perctange formula was used to list the percentage for all 12 funding ranges.  A line graph was created from this data.  I had to manipulate the data set to get the percentage on the Y-axis and the price ranges in the X-axis.  
 
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/111452227/190244878-0e3d7aa7-2a30-4638-89b9-71b468c1c095.png)
+
 
 
 ### Challenges and Difficulties Encountered
