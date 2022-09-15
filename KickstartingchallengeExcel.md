@@ -14,7 +14,7 @@ To understand the outcomes by launch dates, a pivot table was created to compare
 ![Theater_Outocmes_vs_Launch](https://user-images.githubusercontent.com/111452227/190430891-a0b8a76c-7f6b-4dfc-9738-12497400afea.png)
 
 ### Analysis of Outcomes Based on Goals
-Louise wanted to know more about the campaigns based on their funded goals.  To compare the number of successful, failed and  canceled campaigns, the CountIF() function was used.  The Sum() function was used in column E to obtain the total number of projects.  Finally, the perctange formula (percentage/total project) was used to list the percentage for all 12 funding ranges.  A line graph was created from this data.  I had to manipulate the data set to get the percentage on the Y-axis and the price ranges in the X-axis by selecting Select Data when right clicking on the graph.  
+Louise wanted to know more about the campaigns based on their funded goals.  To compare the number of successful, failed and  canceled campaigns, the CountIF() function was used.  The Sum() function was used in column E to obtain the total number of projects.  Finally, the perctange formula (percentage/total project) was used to list the percentage for all 12 funding ranges.  A line graph was created from this data.  From the Select Data section ( right click on graph) I placed the percentage on the Y-axis and the price ranges in the X-axis.  
 
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/111452227/190431177-fb35990d-fd36-461f-aceb-1a9d8a215635.png)
@@ -52,6 +52,6 @@ Outcomes Based on Goal charts: I learned halfway through that you can simply cha
 
     We could create a table comparing the funded goals with the time of the year. 
 
-    We could create tables and graphs for other types of categories, i.e musicals.
+    We could create tables and graphs for other types of categories or subcategories, i.e musicals.
     
     We could create tables comparing the campaigns in different countries. 
