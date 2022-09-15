@@ -42,8 +42,7 @@ On the Outcomes Based on Goal charts, I learned that you can simply change the v
 
 - What are some limitations of this dataset?
 
-    The data doesn't explain why funded goals between $4,999 and $35,000 were not as successful compared to those mentioned in conclusion 3. These were           
-    on the two ends of the chart.  
+    The data doesn't explain why funded goals between $4,999 and $35,000 were not as successful compared to those mentioned in conclusion 3. These were           on the two ends of the chart.  
     
     This analysis only compared outcomes for theater plays. 
 
